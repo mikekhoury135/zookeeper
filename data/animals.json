@@ -117,6 +117,26 @@
       "personalityTraits": [
         "hungry"
       ]
+    },
+    {
+      "name": "Pepe",
+      "species": "mini rex bunny",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Thor",
+      "species": "Canine",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
